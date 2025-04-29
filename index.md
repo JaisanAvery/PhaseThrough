@@ -2,4 +2,4 @@
 
 Here is the home page for my final project!
 
-Access it [here] (./sketch.html)!
+Access it [here] (https://jaisanavery.github.io/PhaseThrough/sketch.html)!
